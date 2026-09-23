@@ -1,10 +1,17 @@
-# Zion AI Regs Radar
+# Zion AI Regs Radar — Zion App Network
 
-Global AI regulation and compliance tracker.
+Zion AI Regs Radar — global AI regulation and compliance tracker. Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [zion-ai-governance](https://github.com/Zion-support/zion-ai-governance) · [ai-compliance-auditor](https://github.com/Zion-support/ai-compliance-auditor) · [zion-ai-trade-compliance-checker](https://github.com/Zion-support/zion-ai-trade-compliance-checker) · [zion-ai-compliance-scanner](https://github.com/Zion-support/zion-ai-compliance-scanner)
+- 🔗 Live app: [https://airegs.ziontechgroup.com](https://airegs.ziontechgroup.com)
+- 🏠 Category: [Security & Compliance](https://github.com/Zion-support/zion-network/blob/main/network/security-compliance.md)
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+## Related apps in the network
+
+- [Zion AI Governance](https://github.com/Zion-support/zion-ai-governance) — EU AI Act readiness
+- [Zion AI Compliance Auditor](https://github.com/Zion-support/zion-ai-compliance-auditor) — EU AI Act ready auditing
+- [Zion AI Policy Generator](https://github.com/Zion-support/zion-ai-policy-generator) — AI governance policy templates
+- [Zion AI Compliance Monitor](https://github.com/Zion-support/zion-ai-compliance-monitor) — continuous evidence collection
+- [Zion AI Vendor Risk](https://github.com/Zion-support/zion-ai-vendor-risk) — third-party risk assessments
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
